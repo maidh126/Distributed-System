@@ -1,4 +1,4 @@
-# Project Inception
+# Project Inception - Distributed System
 
 To combat the pandemic of coronavirus Covid-19, experts in Public Health call for a virus tracking system to stop the spread of the virus in public areas.
 
